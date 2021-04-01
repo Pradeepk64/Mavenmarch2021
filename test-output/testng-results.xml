@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101882" started-at="2021-03-23T15:30:16Z" finished-at="2021-03-23T15:31:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101882" started-at="2021-03-23T15:30:16Z" finished-at="2021-03-23T15:31:58Z">
+      <class name="Driverfactory.AppTest">
+        <test-method status="PASS" signature="Erp_Stock()[pri:0, instance:Driverfactory.AppTest@4cc0edeb]" name="Erp_Stock" duration-ms="101859" started-at="2021-03-23T21:00:16Z" finished-at="2021-03-23T21:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Erp_Stock -->
+      </class> <!-- Driverfactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
